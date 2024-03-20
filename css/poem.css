@@ -59,7 +59,7 @@ color: var(--color-text);
 
 .poem_card{
   display: flex;
-  /* justify-content: space-between; */
+  justify-content: space-between;
   max-width: 300px;
  /* width: 40vh; */
   height: 450px;
