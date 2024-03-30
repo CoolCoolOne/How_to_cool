@@ -1,4 +1,5 @@
-This! https://coolcoolone.github.io/How_to_cool/
+This! https://coolcoolone.github.io/How_to_cool
+
  Site inspirated by WebKademy lessons (youtube) and by my Coolness-n-idea-fullness. 
 First time i code use html css js only 15 days ago. 
 And its extraordinarily, cause before i use vhdl verilog and after two weeks internship i started flashing LEDs.
