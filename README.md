@@ -1,4 +1,4 @@
-This! https://coolcoolone.github.io/How_to_cool
+This! https://coolcoolone.github.io/To_live_cool
 
  Site inspirated by WebKademy lessons (youtube) and by my Coolness-n-idea-fullness. 
 First time i code use html css js only 15 days ago. 
